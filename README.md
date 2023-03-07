@@ -1,2 +1,3 @@
 # BugBu
-Budget corexy printer based on P1P
+Budget Bambu Lab P1P style printer, hence, BugBu
+![Alt text](Images/Front.jpg)
