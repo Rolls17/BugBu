@@ -1,0 +1,10 @@
+My current design is standard for the Sherpa Mini mount.  The following are the extruder I can confirm work with the printer.
+
+Sherpa Mini: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+Print the STL's within the github and follow assembly instructions
+
+Vorxtrudort:  https://github.com/nhchiu/VoronMods/tree/main/Extruders/Vorxtrudort
+Print the STL's within the github, BE SURE to print the Sherpa Mini Friction Fit body.  Follow assembly instruction on the github
+
+Hummingbird:  https://github.com/nhchiu/VoronMods/tree/main/Extruders/Hummingbird
+Print the STL's within the github, you will also need to order the big gear kit from Aliexpress that is linked in the github.  To mount the Hummingbird, there is an adapter plate STL in the Extruder folder on my page that will mount the extruder.  Follow the assembly instruction on the github.
