@@ -1,6 +1,8 @@
 # BugBu
 Budget Bambu Lab P1P style printer, hence, BugBu. 
 
+Print parts as oriented.  Part description will tell you quantity and if supports are needed.  All parts designed for 0.2mm layer height, 6 walls minimum recommended for strength.
+
 Discord:  https://discord.gg/kHFhCXZnxb
 
 Preview:  https://www.youtube.com/watch?v=aXq7XMQ8wdc
